@@ -1,0 +1,7 @@
+# Raw ERCOT data are public; download them yourself (see data/README.md)
+data/raw/*
+!data/raw/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

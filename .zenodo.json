@@ -1,0 +1,38 @@
+{
+  "title": "Investment economics of grid-scale battery storage in ERCOT: code and processed results",
+  "description": "Python code and processed results that reproduce every number, table and figure in the manuscript 'Investment Economics and Business Models for Grid-Scale Lithium-Ion Battery Storage in ERCOT under AI-Related Demand Uncertainty', using public ERCOT day-ahead market data.",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "battery energy storage",
+    "ERCOT",
+    "investment appraisal",
+    "business models",
+    "Monte Carlo",
+    "energy arbitrage",
+    "ancillary services"
+  ],
+  "creators": [
+    {
+      "name": "John, Kayode Solomon",
+      "affiliation": "Umeå University",
+      "orcid": "0009-0002-6413-8554"
+    },
+    {
+      "name": "John, Stephen Alaba",
+      "affiliation": "University of Ibadan",
+      "orcid": "0000-0001-5564-7918"
+    },
+    {
+      "name": "Ezealigo, Christian",
+      "affiliation": "Duke University",
+      "orcid": "0009-0006-7160-3468"
+    },
+    {
+      "name": "Oreoluwa, Abimbola Serifat",
+      "affiliation": "University of Gloucestershire",
+      "orcid": "0009-0006-5345-7356"
+    }
+  ]
+}

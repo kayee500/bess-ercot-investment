@@ -1,0 +1,102 @@
+{
+  "software": {
+    "python": "3.13.16",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1"
+  },
+  "data_2025": {
+    "hours": 8760,
+    "days": 365,
+    "first_day": "2025-01-01",
+    "last_day": "2025-12-31",
+    "non_24_hour_days": {
+      "2025-03-09": 23,
+      "2025-11-02": 25
+    },
+    "repeated_hours": 1,
+    "missing_prices": 0,
+    "mean_energy_price": 32.94201712328766
+  },
+  "benchmark_2025": {
+    "days": 365,
+    "discharged_mwh": 1142.2761853123736,
+    "charged_mwh": 1343.854335661616,
+    "discharge_revenue": 77279.43376573623,
+    "charging_cost": 24738.68617661913,
+    "energy_gross_margin": 52540.747589117105,
+    "equivalent_cycles": 356.9613079101167,
+    "as_value_100pct": 18614.763690503,
+    "as_value_by_service": {
+      "REGDN": 2570.5112104826385,
+      "REGUP": 8020.259067605985,
+      "RRS": 1169.4090097285866,
+      "NSPIN": 5866.053874242457,
+      "ECRS": 988.5305284433343
+    },
+    "lcos_ref": 166.00873266268104
+  },
+  "thresholds": {
+    "gross_revenue_requirement_8pct": 164889.1356978498,
+    "contracts_full_as": {
+      "Contracted availability": 164889.1356978498,
+      "Hybrid": 93733.62441822968,
+      "Data-centre-linked": 112348.38810873269
+    },
+    "hybrid_contract_at_central_as": 98387.31534085544,
+    "annuity_factor_8pct": 8.559478687926369
+  },
+  "data_2026": {
+    "hours": 6791,
+    "days": 283,
+    "first_day": "2026-01-01",
+    "last_day": "2026-10-10",
+    "non_24_hour_days": {
+      "2026-03-08": 23
+    },
+    "repeated_hours": 0,
+    "missing_prices": 0,
+    "mean_energy_price": 35.36653806508615
+  },
+  "check_2026": {
+    "period_end": "2026-10-10",
+    "days": 283,
+    "2026": {
+      "days": 283,
+      "discharged_mwh": 877.9279648967097,
+      "charged_mwh": 1032.8564292902465,
+      "discharge_revenue": 59466.68093519838,
+      "charging_cost": 20644.37549989856,
+      "energy_gross_margin": 38822.30543529982,
+      "equivalent_cycles": 274.35248903022176,
+      "as_value_100pct": 21595.00166867597,
+      "as_value_by_service": {
+        "REGDN": 4055.4863732495073,
+        "REGUP": 1313.1421866463534,
+        "RRS": 297.8512355399819,
+        "NSPIN": 13922.569107166782,
+        "ECRS": 2005.952766073343
+      }
+    },
+    "2025_same_period": {
+      "days": 283,
+      "discharged_mwh": 885.3705923330317,
+      "charged_mwh": 1041.6124615682725,
+      "discharge_revenue": 62074.1681920456,
+      "charging_cost": 19263.460420069685,
+      "energy_gross_margin": 42810.70777197592,
+      "equivalent_cycles": 276.6783101040724,
+      "as_value_100pct": 13368.919655666385,
+      "as_value_by_service": {
+        "REGDN": 1892.1346384903193,
+        "REGUP": 6521.70365574052,
+        "RRS": 924.7985334408307,
+        "NSPIN": 3130.5961548494233,
+        "ECRS": 899.686673145292
+      }
+    },
+    "mean_price_2026": 35.36653806508615,
+    "mean_price_2025_same_period": 33.0325798851421,
+    "sd_price_2026": 73.88691816121636,
+    "sd_price_2025_same_period": 29.99456599239645
+  }
+}
