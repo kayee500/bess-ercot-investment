@@ -1,5 +1,7 @@
 # Investment economics of grid-scale battery storage in ERCOT
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24020592.svg)](https://doi.org/10.5281/zenodo.24020592)
+
 Code and processed results for the manuscript:
 
 > John, K. S., John, S. A., Ezealigo, C., & Oreoluwa, A. S. (2026). *Investment Economics and Business Models for Grid-Scale
@@ -116,8 +118,15 @@ bess-ercot-investment/
 
 ## Data licence and citation
 
-ERCOT market data are public and remain subject to ERCOT's terms of use. Please cite the
-manuscript if you use this code. Code is released under the MIT licence.
+ERCOT market data are public and remain subject to ERCOT's terms of use. Code is released under the MIT licence.
+
+## How to cite the code
+
+> John, K. S., John, S. A., Ezealigo, C., & Oreoluwa, A. S. (2026). *Investment economics of
+> grid-scale battery storage in ERCOT: code and processed results* (Version 1.0.0) [Computer
+> software]. Zenodo. https://doi.org/10.5281/zenodo.24020592
+
+Please also cite the manuscript if you use this code.
 
 ## Contact
 
